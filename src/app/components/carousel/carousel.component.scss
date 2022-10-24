@@ -49,3 +49,18 @@
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
 }
+
+#carousel-first-image {
+  transform: translatey(-12%);
+  filter: brightness(0.9);
+}
+
+#carousel-second-image {
+  transform: translatey(-30%);
+  filter: brightness(0.8);
+}
+
+#carousel-third-image {
+  transform: translatey(-34%);
+  filter: brightness(0.8);
+}
