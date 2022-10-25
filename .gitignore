@@ -43,3 +43,6 @@ Thumbs.db
 
 # VS Code Settings
 .vscode/
+
+# Temporal angular
+.angualar/
