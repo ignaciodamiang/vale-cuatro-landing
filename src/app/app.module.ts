@@ -10,6 +10,7 @@ import { PricingComponent } from './components/pricing/pricing.component';
 import { CarouselComponent } from './components/carousel/carousel.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { MarketingComponent } from './components/marketing/marketing.component';
+import { TestimonyComponent } from './components/testimony/testimony.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { MarketingComponent } from './components/marketing/marketing.component';
     PricingComponent,
     CarouselComponent,
     FooterComponent,
-    MarketingComponent
+    MarketingComponent,
+    TestimonyComponent
   ],
   imports: [
     BrowserModule,
