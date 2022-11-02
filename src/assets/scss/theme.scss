@@ -68,6 +68,6 @@ $grays: (
   font-family: "Poppins", sans-serif;
 }
 
-@import "~bootstrap/scss/bootstrap.scss";
+@import "node_modules/bootstrap/scss/bootstrap.scss";
 
 $theme-colors-rgb: map-loop($theme-colors, to-rgb, "$value");
